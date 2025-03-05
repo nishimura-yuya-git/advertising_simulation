@@ -1,1 +1,0 @@
-# advertising_simulation
